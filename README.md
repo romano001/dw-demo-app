@@ -1,3 +1,4 @@
+![example workflow](https://github.com/romano001/dw-demo-app/actions/workflows/build.yml/badge.svg)
 # DropWizard Demo Application
 
 Welcome to the DropWizard Demo Application !
